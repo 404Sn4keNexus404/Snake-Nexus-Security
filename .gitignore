@@ -3,3 +3,5 @@ __pycache__/
 reports/
 test-data/
 manifests/
+
+evidence/
